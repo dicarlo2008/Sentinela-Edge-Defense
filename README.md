@@ -66,7 +66,8 @@ Correlação de eventos para identificação de padrões avançados de ataque.
 ### 📡 Sentinela Monitor
 Dashboard de observabilidade em tempo real da infraestrutura protegida.
 
-<img width="1267" height="886" alt="panel sentinela atualizado" src="https://github.com/user-attachments/assets/da9d5790-6332-4ed9-9e3c-6f0e960a4d5a" />
+<img width="1500" height="1049" alt="Painel de Defesa Sentinela Edge" src="https://github.com/user-attachments/assets/3b843bb9-4799-4f76-a903-e3bf31aa01de" />
+
 
 
 ---
